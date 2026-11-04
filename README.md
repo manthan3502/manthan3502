@@ -1,38 +1,39 @@
-# Hi, I'm Manthan Karekar 👋
+# Manthan Karekar
 
-🎓 B.Tech Computer Science Engineering Student at DES Pune University
+**AI / Machine Learning Engineering · Full-Stack Development**
 
-💻 Interested in:
+Final-year B.Tech Computer Science Engineering student at **DES Pune University**, Pune, India.
 
-* Software Development
-* Artificial Intelligence
-* Data Science
-* IoT Systems
+I build AI/ML systems and turn them into complete, usable web applications. My projects connect data processing, model evaluation, and AI-assisted workflows with practical interfaces.
 
-🚀 Currently Learning:
+## Projects
 
-* Java
-* Data Structures & Algorithms
-* Software Development Fundamentals
+- **[ModelMedic](https://github.com/manthan3502/ModelMedic) — ML reliability and drift analysis.** Compares new datasets with a frozen tabular-classification baseline, distinguishing changes in inputs, predictions, and confidence from performance and calibration evidence available only when labels exist.  
+  *Python · scikit-learn · FastAPI · React · PostgreSQL*
 
-🔨 Featured Projects:
+- **[QuoteLens AI](https://github.com/manthan3502/quotelens-ai) — AI-assisted quotation comparison.** Extracts details from supplier documents with Gemini, validates structured data, supports human verification, and calculates pricing comparisons deterministically.  
+  *Next.js · TypeScript · Gemini · Supabase · Zod*
 
-* SynthGEN – AI-Powered Synthetic Data Generator
-* Smart City AQI Prediction & Analysis
+- **[FloodLens](https://github.com/manthan3502/FloodLens) — Geospatial flood susceptibility analysis.** Combines geospatial evidence, transparent deterministic scoring, and interactive mapping to explore settlement-level susceptibility and response priorities in Kolhapur.  
+  *Python · FastAPI · React · PostGIS · Leaflet*
 
-🛠 Technologies:
+- **[SynthGEN](https://github.com/manthan3502/SynthGEN) — AI-assisted synthetic data generation.** Interprets natural-language dataset requests with Gemini and generates structured, downloadable tabular data using Faker and Pandas.  
+  *Python · Flask · React · Gemini · Faker · Pandas*
 
-* Java
-* Python
-* React
-* FastAPI
-* SQLite
-* Git & GitHub
+- **[MicroTrace](https://github.com/manthan3502/MicroTrace) — Distributed tracing and visualization.** Propagates trace context across services, stores and reconstructs spans, and presents request timings and failures in a custom waterfall interface.  
+  *Python · FastAPI · React · TypeScript · PostgreSQL*
 
-📫 Connect with Me
+## Technical Stack
 
-LinkedIn:
-https://www.linkedin.com/in/manthan-karekar-8a5aa4256/
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **AI & data:** scikit-learn, Pandas, NumPy, Gemini API
+- **Web development:** React, Next.js, FastAPI, Flask
+- **Databases & tools:** PostgreSQL, PostGIS, Supabase, Docker, Git, GitHub Actions
 
-GitHub:
-https://github.com/manthan3502
+## Beyond AI & Web
+
+**[BobaBrawlers](https://github.com/manthan3502/BobaBrawlers)** — A Unity and C# 3D arcade game featuring physics-based knockouts, AI opponents, and three levels.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/manthan-karekar-8a5aa4256/) · [GitHub repositories](https://github.com/manthan3502?tab=repositories)
