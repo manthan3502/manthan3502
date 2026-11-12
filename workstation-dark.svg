@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+  <title id="title">Blueprint workstation</title><desc id="desc">Minimal dark workstation with a monitor displaying a model graph.</desc>
+  <rect width="720" height="240" rx="16" fill="#0D1117"/>
+  <path d="M70 190H650" stroke="#00F0FF" stroke-opacity=".35"/><path d="M110 190V52H550V190" fill="none" stroke="#7D91A4" stroke-opacity=".65"/>
+  <rect x="136" y="72" width="388" height="94" rx="5" fill="#101A24" stroke="#00F0FF" stroke-opacity=".7"/>
+  <path d="M158 140L215 120L270 136L332 92L392 118L468 86L504 106" fill="none" stroke="#00F0FF" stroke-width="2"/>
+  <circle cx="215" cy="120" r="4" fill="#FF9E00"/><circle cx="332" cy="92" r="4" fill="#FF9E00"/><circle cx="468" cy="86" r="4" fill="#FF9E00"/>
+  <path d="M315 166V190M270 190H360" stroke="#7D91A4" stroke-width="5"/><path d="M586 190V104M586 104L640 82M586 126L640 148" stroke="#FF9E00" stroke-opacity=".75" stroke-width="3"/>
+  <path d="M98 190L70 216M622 190L650 216" stroke="#7D91A4" stroke-width="3"/>
+</svg>

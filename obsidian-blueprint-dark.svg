@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Obsidian blueprint</title>
+  <desc id="desc">Abstract dark technical blueprint with cyan and amber geometry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#101A24"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00F0FF" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#FF9E00" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8BA3B8" stroke-opacity=".12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="384" rx="12" fill="url(#grid)" stroke="#6D8296" stroke-opacity=".35"/>
+  <path d="M80 320H1120M80 100H1120M160 60V360M1040 60V360" stroke="#00F0FF" stroke-opacity=".18"/>
+  <path d="M80 290L240 290L320 210L470 210L540 140L760 140L840 210L1010 210L1120 290" fill="none" stroke="url(#beam)" stroke-width="2"/>
+  <path d="M210 320V250L310 150H455M745 150H890L990 250V320" fill="none" stroke="#FF9E00" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M600 76V344M470 210H730" stroke="#00F0FF" stroke-opacity=".5" stroke-dasharray="4 8"/>
+  <g filter="url(#glow)">
+    <circle cx="320" cy="210" r="5" fill="#00F0FF"/>
+    <circle cx="600" cy="140" r="6" fill="#FF9E00"/>
+    <circle cx="840" cy="210" r="5" fill="#00F0FF"/>
+  </g>
+  <g fill="#B8C7D6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">
+    <text x="82" y="76">OBSIDIAN / BLUEPRINT_01</text>
+    <text x="82" y="350">SYSTEMS · MODELS · INTERFACES</text>
+    <text x="1008" y="76">v.01</text>
+  </g>
+</svg>
