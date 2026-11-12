@@ -1,7 +1,7 @@
-<p align="center">
+ <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/obsidian-blueprint-light.svg">
-    <img src="assets/obsidian-blueprint-dark.svg" alt="Abstract obsidian blueprint with cyan and amber engineering lines" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="./obsidian-blueprint-light.svg">
+    <img src="./obsidian-blueprint-dark.svg" alt="Abstract obsidian blueprint with cyan and amber engineering lines" width="100%">
   </picture>
 </p>
 
@@ -15,16 +15,16 @@ I build AI/ML systems and turn them into complete, usable web applications. My p
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/workstation-light.svg">
-    <img src="assets/workstation-dark.svg" alt="Blueprint workstation illustration" width="520">
+    <source media="(prefers-color-scheme: light)" srcset="./workstation-light.svg">
+    <img src="./workstation-dark.svg" alt="Blueprint workstation illustration" width="520">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/telemetry-divider-static.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/telemetry-divider-static.svg">
-    <img src="assets/telemetry-divider.gif" alt="" width="100%" height="24">
+    <source media="(prefers-color-scheme: light)" srcset="./telemetry-divider-static.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./telemetry-divider-static.svg">
+    <img src="./telemetry-divider.gif" alt="" width="100%">
   </picture>
 </p>
 
